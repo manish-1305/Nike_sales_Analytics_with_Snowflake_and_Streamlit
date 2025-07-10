@@ -32,18 +32,8 @@ Data Processing: Pandas, NumPy
 Deployment: Streamlit Cloud
 
 ## 📊 Data Architecture
-Snowflake Database: SF_PROJECT
-└── Schema: NIKE
-    └── Table: NIKE_SALES
-        ├── Invoice Date
-        ├── Product
-        ├── Region
-        ├── Retailer
-        ├── Sales Method
-        ├── State
-        ├── Price per Unit
-        ├── Total Sales
-        └── Units Sold
+![Project Architecture](images/Architecture.png)
+
 ## 🎯 Key Insights Delivered
 
 Sales Performance: Track revenue trends and identify peak periods
