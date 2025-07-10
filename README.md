@@ -50,6 +50,8 @@ Export Capabilities - Download filtered data and reports
 Performance Metrics - Monitor dashboard efficiency
 Mobile Responsive - Access insights on any device
 
+[![Video Title]](https://www.youtube.com/watch?v=xOcHs2WORgk)
+
 ## 🔧 Setup Requirements
 
 Snowflake account with access to Nike sales data
