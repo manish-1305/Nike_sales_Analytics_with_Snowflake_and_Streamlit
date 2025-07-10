@@ -50,7 +50,7 @@ Export Capabilities - Download filtered data and reports
 Performance Metrics - Monitor dashboard efficiency
 Mobile Responsive - Access insights on any device
 
-[![Video Title]](https://www.youtube.com/watch?v=xOcHs2WORgk)
+https://github.com/user-attachments/assets/ca77561a-4844-4825-b531-6f3f1566b0d4
 
 ## 🔧 Setup Requirements
 
